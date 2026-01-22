@@ -15,6 +15,16 @@ redirect_from:
 * B.Sc. equivalent (German "Vordiplom") in Mathematics with distinction, class rank 1 of 65, May 2022
 * B.Sc. in Computer Science with distinction, class rank 1 of 252, September 2019
 
+## Honors
+* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2021
+* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2019
+* Top Student Award, awarded by Database Group Leipzig and Leipzig University, December 2018
+* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2018
+* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2017
+
+## Research Experience
+* Graduate Research Assistant, Department of Statistics & Data Science, Carnegie Mellon University, since May 2025
+
 ## Work Experience
 * PricewaterhouseCoopers, Associate Finance Transformation, February 2022 - June 2024
 * Check24, Front End App Developer, May 2020 - January 2022
@@ -26,10 +36,4 @@ redirect_from:
 * Summer 2018: Computer Hardware Engineering, Teaching Assistant, Leipzig University
 * Summer 2018: Modeling and Programming, Teaching Assistant, Leipzig University
 
-## Honors
-* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2021
-* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2019
-* Top Student Award, awarded by Database Group Leipzig and Leipzig University, December 2018
-* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2018
-* Deutschlandstipendium, awarded by German Federal Ministry of Education and Research, October 2017
   

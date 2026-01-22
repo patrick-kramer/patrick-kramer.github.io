@@ -1,0 +1,28 @@
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.16.0/ext/json/ext/parser
+/usr/local/opt/ruby/bin/ruby extconf.rb
+checking for rb_enc_interned_str() in ruby/encoding.h... yes
+checking for rb_str_to_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... yes
+checking for rb_hash_bulk_insert() in ruby.h... yes
+checking for strnlen() in string.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+checking for x86intrin.h... yes
+checking for cpuid.h... yes
+creating Makefile
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.16.0/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-n3ffi8 sitelibdir\=./.gem.20251112-47208-n3ffi8 clean
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.16.0/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-n3ffi8 sitelibdir\=./.gem.20251112-47208-n3ffi8
+compiling parser.c
+linking shared-object json/ext/parser.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+ld: warning: dylib (/usr/local/Cellar/ruby/3.4.7/lib/libruby.3.4.dylib) was built for newer macOS version (14.0) than being linked (13.1)
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.16.0/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-n3ffi8 sitelibdir\=./.gem.20251112-47208-n3ffi8 install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20251112-47208-n3ffi8/json/ext
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.16.0/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-n3ffi8 sitelibdir\=./.gem.20251112-47208-n3ffi8 clean

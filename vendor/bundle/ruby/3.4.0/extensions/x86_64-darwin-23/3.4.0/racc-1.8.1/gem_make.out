@@ -1,0 +1,20 @@
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-mi81vi sitelibdir\=./.gem.20251112-47208-mi81vi clean
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-mi81vi sitelibdir\=./.gem.20251112-47208-mi81vi
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+ld: warning: dylib (/usr/local/Cellar/ruby/3.4.7/lib/libruby.3.4.dylib) was built for newer macOS version (14.0) than being linked (13.1)
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-mi81vi sitelibdir\=./.gem.20251112-47208-mi81vi install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251112-47208-mi81vi/racc
+
+current directory: /Users/patrickkramer/PhD-Website/patrick-kramer.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251112-47208-mi81vi sitelibdir\=./.gem.20251112-47208-mi81vi clean
