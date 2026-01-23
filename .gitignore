@@ -11,3 +11,14 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore the local ruby gems folder
+vendor/
+.bundle/
+
+# Ignore local Jekyll cache
+.jekyll-cache/
+_site/
+
+# Ignore OS-specific files
+.DS_Store
