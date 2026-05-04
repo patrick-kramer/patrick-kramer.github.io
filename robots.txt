@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://patrick-kramer.github.io/al-folio/sitemap.xml
+Sitemap: https://patrick-kramer.github.io/sitemap.xml
