@@ -7,6 +7,8 @@ nav_order: 5
 description: 
 ---
 
+Here is a short version of my CV.
+
 <div class="post">
   <header class="post-header">
     <p class="post-description">
