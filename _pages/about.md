@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student in Statistics at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by Professor [Edward Kennedy](https://www.ehkennedy.com/). My research interests lie at the intersection of **Causal Inference**, **Machine Learning**, and **Nonparametric Theory**. 
+I am a second-year PhD student in [Machine Learning and Statistics](https://ml.cmu.edu/academics/joint-ml-phd) at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be advised by Professor [Edward Kennedy](https://www.ehkennedy.com/). My research interests lie at the intersection of **Causal Inference**, **Machine Learning**, and **Optimization**. 
 
 Most recently, my work has focused on causal inference with high-dimensional treatments. This research was honored with the [2026 JSM Student Paper Award](https://community.amstat.org/slds/awards/student-paper-award) from the Statistical Learning and Data Science (SLDS) section.
 

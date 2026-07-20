@@ -7,7 +7,7 @@ nav_order: 5
 description: 
 ---
 
-Here is a short version of my CV.
+Here is a short version of my CV (current as of July 20, 2026).
 
 <div class="post">
   <header class="post-header">
